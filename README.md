@@ -1,16 +1,22 @@
 # sub_downloader
 
-A new Flutter project.
+Flutter app to download subtitles for movies and tv shows using opensubtitles's REST API and with the help of omdb API  
 
-## Getting Started
+also you read a detaild medium story to make such app :
 
-This project is a starting point for a Flutter application.
+https://medium.com/@obada454u2u/build-flutter-app-with-provider-to-download-subtitles-for-movies-and-tv-shows-a8633c00e2fe?
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table style="width:100%">
+  
+    <th>
+    ![](https://raw.githubusercontent.com/obadajasm/Subtitle-Downloader/master/Screenshot/screenshot.jpg)
+    
+    </th>
+    <th>
+    https://raw.githubusercontent.com/obadajasm/Subtitle-Downloader/master/Screenshot/sh.jpg
+    
+    </th> 
+  
+  
+ </table>
