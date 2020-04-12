@@ -14,11 +14,11 @@ https://medium.com/@obada454u2u/build-flutter-app-with-provider-to-download-subt
 
   <tr>
     <td>
-
-
-<img src="https://raw.githubusercontent.com/obadajasm/Subtitle-Downloader/master/Screenshot/screenshot.jpg"/>
+<img width="600" height="800" src="https://raw.githubusercontent.com/obadajasm/Subtitle-Downloader/master/Screenshot/screenshot.jpg"/>
 </td>
-  
+    <td>
+<img width="600" height="800" src="https://raw.githubusercontent.com/obadajasm/Subtitle-Downloader/master/Screenshot/sh.jpg"/>
+</td>
   </tr>
 </table>
 
