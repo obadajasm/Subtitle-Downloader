@@ -7,7 +7,7 @@ import 'package:sub_downloader/widget/tvshow_section.dart';
 class MainWidget extends StatelessWidget {
   const MainWidget({Key key, @required this.provider}) : super(key: key);
 
-  final MyProviders provider;
+  final MyProvider provider;
 
   void search(s, ep, se) async {
     print(s + ep + se);

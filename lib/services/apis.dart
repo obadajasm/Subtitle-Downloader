@@ -5,7 +5,7 @@ import 'package:dio/dio.dart';
 import 'package:flutter/foundation.dart';
 import 'package:permission_handler/permission_handler.dart';
 
-class MyProviders with ChangeNotifier {
+class MyProvider with ChangeNotifier {
   List<dynamic> responseBody;
   bool isLoading = false;
   bool isDownloading = false;

@@ -6,7 +6,7 @@ class TvShowSection extends StatelessWidget {
       {Key key, this.textEditingController, this.provider, this.search})
       : super(key: key);
   final TextEditingController textEditingController;
-  final MyProviders provider;
+  final MyProvider provider;
   final Function search;
   @override
   Widget build(BuildContext context) {

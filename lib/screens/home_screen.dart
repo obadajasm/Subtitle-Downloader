@@ -40,7 +40,7 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   Widget build(BuildContext context) {
-    var provider = Provider.of<MyProviders>(context);
+    MyProvider provider = Provider.of<MyProvider>(context);
 
     List<String> text = provider.langList;
 

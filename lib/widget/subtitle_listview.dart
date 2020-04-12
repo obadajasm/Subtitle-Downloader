@@ -11,7 +11,7 @@ class SubtitleListViewWidget extends StatelessWidget {
     @required this.provider,
   }) : super(key: key);
 
-  final MyProviders provider;
+  final MyProvider provider;
 
   @override
   Widget build(BuildContext context) {

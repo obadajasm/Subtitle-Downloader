@@ -18,7 +18,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MultiProvider(
-      providers: [ChangeNotifierProvider(create: (_) => MyProviders())],
+      providers: [ChangeNotifierProvider(create: (_) => MyProvider())],
       child: MaterialApp(
         theme: ThemeData(
           buttonColor: Color(0xffffbd69),

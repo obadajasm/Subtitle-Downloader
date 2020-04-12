@@ -9,7 +9,7 @@ class ChooseLangWidget extends StatelessWidget {
   }) : super(key: key);
 
   final List<String> text;
-  final MyProviders provider;
+  final MyProvider provider;
 
   @override
   Widget build(BuildContext context) {
