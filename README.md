@@ -9,6 +9,6 @@ https://medium.com/@obada454u2u/build-flutter-app-with-provider-to-download-subt
 
 
 
-    ![](https://raw.githubusercontent.com/obadajasm/Subtitle-Downloader/master/Screenshot/screenshot.jpg)
+    ![](Screenshot/screenshot.jpg)
     
-    ![](htps://raw.githubusercontent.com/obadajasm/Subtitle-Downloader/master/Screenshot/sh.jpg)
+    ![](Screenshot/sh.jpg)
