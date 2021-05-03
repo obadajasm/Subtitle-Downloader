@@ -3,6 +3,7 @@ import 'dart:io';
 import 'package:downloads_path_provider/downloads_path_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
+import 'package:permission_handler/permission_handler.dart';
 import 'package:sub_downloader/services/apis.dart';
 
 class SubtitleListViewWidget extends StatelessWidget {
@@ -22,6 +23,7 @@ class SubtitleListViewWidget extends StatelessWidget {
         itemBuilder: (ctx, index) {
           return GestureDetector(
             onTap: () async {
+              await Permission.storage.request();
               var tempDir = await DownloadsPathProvider.downloadsDirectory;
 
               await Directory(tempDir.path + "/SubDownloader").create();
